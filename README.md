@@ -13,6 +13,10 @@ If you're looking for [API Specification](https://ukey1.docs.apiary.io), check o
 - [Security](Docs/Security/README.md)
 - [FAQ](Docs/FAQ/README.md)
 
+## Release Notes
+
+Follow our [updates on Tumblr](https://ukey1-release-notes.tumblr.com/).
+
 ## Questions? Bug?
 
 Please create [new issue](https://github.com/asaritech/ukey1-docs/issues/new).
